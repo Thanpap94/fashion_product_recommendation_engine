@@ -35,7 +35,7 @@
 
 - `gender_classification_dataset.zip` contains the dataset used for the gender classification model
 -  [This](https://universe.roboflow.com/new-workspace-w4orl/fashion_obj_detection/browse) Roboflow dataset is used to train the Object Detection YOLOv5 model
--  The embedding generation model is trained using [this gituhub repo](https://github.com/kang205/STL-Dataset) and the training data are extracted into STL-Dataset/embeddings_train_data inside Google Drive  
+-  The embedding generation model is trained using [this github repo](https://github.com/kang205/STL-Dataset) and the training data are extracted into STL-Dataset/embeddings_train_data inside Google Drive  
 
 
 **In order to run the Jupyter notebook in Google Colab, you should first upload the [Google Drive folder](https://drive.google.com/drive/folders/1vsUGiCy1Ae86ntI-9MNcOAfl9ZYds24e?usp=sharing) to your drive and load the Drive into the Colab environment, using the following:**
