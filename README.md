@@ -4,7 +4,7 @@
 ![Screenshot 2022-06-23 154847](https://user-images.githubusercontent.com/97535586/185087096-c3983acb-7b01-402e-9cce-c59a8d2b65d8.png)
 
 
-In [this](https://drive.google.com/drive/folders/1vsUGiCy1Ae86ntI-9MNcOAfl9ZYds24e?usp=sharing) Google Drive link you can find all the model weights and the dataset used for the implementation.
+**In [this](https://drive.google.com/drive/folders/1vsUGiCy1Ae86ntI-9MNcOAfl9ZYds24e?usp=sharing) Google Drive link you can find all the model weights and the dataset used for the implementation.**
 
 
 ### Model weights:
