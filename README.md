@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/papailth/fashion_product_recommendation_engine">
-    <img src="https://i.ibb.co/Gc7P2TV/AUEB-T.png" alt="Logo" width="120" height="200">
+    <img src="https://i.ibb.co/Gc7P2TV/AUEB-T.png" alt="Logo" width="150" height="200">
         <img src="https://i.ibb.co/LSrQVQR/download.jpg" alt="Logo" width="180" height="180">
  </a>
 
