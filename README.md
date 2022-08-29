@@ -19,11 +19,11 @@
     <a href="https://e-mscba.dmst.aueb.gr/course/info.php?id=115&lang=en"><strong>Explore the Course »</strong></a>
     <br />
     <br />
-    <a href="">Contact Us</a>
+    <a href="">Script</a>
     ·
-    <a href="">Contribute</a>
+    <a href="">Report</a>
     ·
-    <a href="">Request Feature</a>
+    <a href="">Presentation</a>
   </p>
 </div>
 
