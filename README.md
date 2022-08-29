@@ -28,10 +28,11 @@
 </div>
 
 
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
+**In [this](https://drive.google.com/drive/folders/1vsUGiCy1Ae86ntI-9MNcOAfl9ZYds24e?usp=sharing) Google Drive link you can find all the model weights and the dataset used for the implementation.**
 
 
 <p align="center"  width="650px">
@@ -54,9 +55,7 @@ For online fashion businesses, the new tool will increase conversion and basket 
 
 <img align="center" alt="Saket Prag" width="1000px" src="https://i.ibb.co/cy8SmFY/PLAN.png" />
 
-
-
-**In [this](https://drive.google.com/drive/folders/1vsUGiCy1Ae86ntI-9MNcOAfl9ZYds24e?usp=sharing) Google Drive link you can find all the model weights and the dataset used for the implementation.**
+**[The model weights and the dataset used for the implementation](https://drive.google.com/drive/folders/1vsUGiCy1Ae86ntI-9MNcOAfl9ZYds24e?usp=sharing) :**
 
 
 ### Model weights:
