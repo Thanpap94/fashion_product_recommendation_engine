@@ -53,7 +53,7 @@ For online fashion businesses, the new tool will increase conversion and basket 
 
 ### A Fashion Product Recommendation Engine
 
-<img align="center" alt="Saket Prag" width="1000px" src="https://i.ibb.co/cy8SmFY/PLAN.png" />
+<img align="center" alt="Saket Prag" width="1000px" src="https://i.ibb.co/VM8qkHR/Capture22.png" />
 
 **[The model weights and the dataset used for the implementation](https://drive.google.com/drive/folders/1vsUGiCy1Ae86ntI-9MNcOAfl9ZYds24e?usp=sharing) :**
 
