@@ -9,7 +9,6 @@
 <a name="readme-top"></a>
   <h3 align="center">Course: Machine Learning & Content Analytics</h3>
  <p align="center">
-    Part Time 2022
     <br />
     <a href="https://e-mscba.dmst.aueb.gr/course/info.php?id=115&lang=en"><strong>Explore the Course »</strong></a>
     <br />
@@ -19,6 +18,7 @@
 
   <p align="center">
     <br />
+    Whiskey Team: @sdespotis & @papailth
     <a href="">Script</a>
     ·
     <a href="">Report</a>
