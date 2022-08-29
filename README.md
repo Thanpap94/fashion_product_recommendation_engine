@@ -35,7 +35,7 @@
 
 
 <p align="center"  width="650px">
-    <img width="33%" src="https://i.ibb.co/dgR09sy/shop-the-look-n-final.gif">
+    <img width="90%" src="https://i.ibb.co/dgR09sy/shop-the-look-n-final.gif">
 </p>
 
 
