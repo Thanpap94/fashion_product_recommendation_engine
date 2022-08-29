@@ -74,6 +74,11 @@ For online fashion businesses, the new tool will increase conversion and basket 
 2. **Object Detection** 
    - `object_detection.pt`
    
+      <p align="center"  width="650px">
+    <img width="90%" src="https://i.ibb.co/Z29ZynV/YOLO.png">
+</p>
+   
+   
 3. **Embeddings** 
    - `topwear_embedding.h5`
    - `bottomwear_embedding.h5`
