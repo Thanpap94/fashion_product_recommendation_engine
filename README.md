@@ -17,11 +17,6 @@
     
 <img align="center" alt="Saket Prag" width="1000px" src="https://i.ibb.co/vHQz0zh/Shop-The-Look-Project-8-26-2022.png" />
 
-
-
-
-
-
   <p align="center">
     <br />
     <a href="">Script</a>
