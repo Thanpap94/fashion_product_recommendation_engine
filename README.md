@@ -42,6 +42,11 @@
 
 Every day, consumers waste a lot of time on searching for clothes, especially when they know exactly what they want. Since fashion is about the look – combining multiple items together – we thought it would be a great idea to give to users a faster tool to search outfits online, rather than typing multiple textual keywords in search engines. In our case, the adage “A picture is worth a thousand words” was valid, since the images were the “key” solution to our problem. Due to the fact that people are familiar with snaping pictures (e.g. for their social media) and also pictures contain a variety of information, we focused on providing an easy going solution to the users: “Snap and Shop”. We believe that our new tool will give many advantages for customers and online business too.</p>
 Specifically, for customers the “Shop The Look” tool, will give a personalized user experience, with a fully automated process of matching products to scenes. Having an app which recognizes the clothes of a photo and search for similar products in online stores, will be more practical and time efficient. Secondly, by pointing out relevant alternatives based on what they are looking at, customers could be inspired and discover a much more bigger variety of similar outfits. Thirdly, many times users find they want, but they cant find where to find it online available. Giving that information instantly, will create more enjoyable customer journeys.</p>
+
+<p align="center"  width="650px">
+    <img width="90%" src="https://i.ibb.co/cD7fRyR/train22.gif">
+</p>
+
 For online fashion businesses, the new tool will increase conversion and basket size. When shoppers are better engaged with their brand and its personalized style suggestions, they will probably also increase the frequency of purchases. Secondly, enabling consumers to buy the entire look in the picture with one click, removes the pain of complex human processes and their maintenance. So, companies could save time and costs, from every party that is involved in apparel purchases. Thirdly, the companies can leverage huge amounts of data from users and create detailed reports (e.g. sales performance, user queries) and create personalized landing pages or campaigns.
 
 
