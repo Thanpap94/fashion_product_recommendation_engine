@@ -51,8 +51,8 @@ For online fashion businesses, the new tool will increase conversion and basket 
 
 
 
-
-### A Fashion Product Recommendation Engine
+<!-- A Fashion Product Recommendation Engine -->
+## A Fashion Product Recommendation Engine
 
 
 <p align="center"  width="650px">
