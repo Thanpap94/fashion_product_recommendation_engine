@@ -59,15 +59,17 @@ For online fashion businesses, the new tool will increase conversion and basket 
     <img width="90%" src="https://i.ibb.co/VM8qkHR/Capture22.png">
 </p>
 
-<p align="center"  width="650px">
-    <img width="90%" src="https://i.ibb.co/cD7fRyR/train22.gif">
-</p>
+
 
 **[The model weights and the dataset used for the implementation](https://drive.google.com/drive/folders/1vsUGiCy1Ae86ntI-9MNcOAfl9ZYds24e?usp=sharing) :**
 
 ### Model weights:
 1. **Gender Classification**
    - `gender_classification_model.h5`
+   
+   <p align="center"  width="650px">
+    <img width="90%" src="https://i.ibb.co/cD7fRyR/train22.gif">
+</p>
    
 2. **Object Detection** 
    - `object_detection.pt`
