@@ -7,6 +7,7 @@
  </a>
 
 <a name="readme-top"></a>
+  <h3 align="center">MSc in Business Analytics at Athens University of Economics and Business (AUEB)</h3>
   <h3 align="center">Course: Machine Learning & Content Analytics</h3>
  <p align="center">
     <a href="https://e-mscba.dmst.aueb.gr/course/info.php?id=115&lang=en"><strong>Explore the Course</strong></a>
