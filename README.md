@@ -9,7 +9,6 @@
 <a name="readme-top"></a>
   <h3 align="center">Course: Machine Learning & Content Analytics</h3>
  <p align="center">
-    <br />
     <a href="https://e-mscba.dmst.aueb.gr/course/info.php?id=115&lang=en"><strong>Explore the Course »</strong></a>
     <br />
     <br />
@@ -17,8 +16,7 @@
 <img align="center" alt="Saket Prag" width="1000px" src="https://i.ibb.co/vHQz0zh/Shop-The-Look-Project-8-26-2022.png" />
 
   <p align="center">
-    <br />
-    Whiskey Team: @sdespotis & @papailth
+    Whiskey Team: @sdespotis & @papailth<br />
     <a href="">Script</a>
     ·
     <a href="">Report</a>
