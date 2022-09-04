@@ -66,7 +66,8 @@ For online fashion businesses, the new tool will increase conversion and basket 
     <img width="90%" src="https://i.ibb.co/VM8qkHR/Capture22.png">
 </p>
 
-
+<!-- Model Weights -->
+##  Model Weights
 
 **[The model weights and the dataset used for the implementation](https://drive.google.com/drive/folders/1vsUGiCy1Ae86ntI-9MNcOAfl9ZYds24e?usp=sharing) :**
 
@@ -87,7 +88,8 @@ For online fashion businesses, the new tool will increase conversion and basket 
    - `bottomwear_embedding.h5`
    - `footwear_embedding.h5`
    
- ### Embeddings datasets:
+ <!-- Embeddings datasets -->
+##  Embeddings datasets
  
  The dataset used to generate the embeddings, consisting of fashion products to recommend is saved in `skroutz_images.zip` and `skroutz_images.csv`.
  The embeddings for the catalog/database, are saved in the following CSVs:
@@ -98,8 +100,9 @@ For online fashion businesses, the new tool will increase conversion and basket 
 - `womens_topwear_embeddings.csv`
 - `womens_bottomwear_embeddings.csv`
 - `womens_footwear_embeddings.csv`
-   
-### Training datasets:
+
+<!-- Training datasets -->
+##  Training datasets   
 
 - `gender_classification_dataset.zip` contains the dataset used for the gender classification model
 -  [This](https://universe.roboflow.com/new-workspace-w4orl/fashion_obj_detection/browse) Roboflow dataset is used to train the Object Detection YOLOv5 model
