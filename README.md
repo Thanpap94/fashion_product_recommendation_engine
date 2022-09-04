@@ -68,7 +68,8 @@ For online fashion businesses, the new tool will increase conversion and basket 
 
 <!-- Model Weights -->
 ##  Model Weights
- <br />
+
+ 
 **[The model weights and the dataset used for the implementation](https://drive.google.com/drive/folders/1vsUGiCy1Ae86ntI-9MNcOAfl9ZYds24e?usp=sharing) :**
 
 ### Model weights:
