@@ -30,7 +30,7 @@
     ·
     <a href="https://github.com/papailth/fashion_product_recommendation_engine/blob/main/Shop%20The%20Look%20Report%20Despotis%20Papailiou%20(Whiskey).pdf">Report</a>
     ·
-    <a href="https://github.com/papailth/fashion_product_recommendation_engine/blob/main/Shop_The_Look_Despotis_Papailiou_Presentation.pdf">Presentation</a>👈🏻
+    <a href="https://github.com/papailth/fashion_product_recommendation_engine/blob/main/Final%20Presentation%20Whiskey%20Team%20-%20Shop%20The%20Look.pdf">Presentation</a>👈🏻
   </p>
 </div>
 
